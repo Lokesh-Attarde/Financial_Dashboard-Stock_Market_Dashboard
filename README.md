@@ -1,4 +1,4 @@
-# Create_Effective_Dashboards:  Financial_Dashboard - (Stock_Market_Dashboard)
+# Create_Effective_Dashboards:  Financial_Dashboard - (Stock_Market_Dashboard) : With Dynamic Data.
 
 Dashboard Development using Google Data Studio.
 
